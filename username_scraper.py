@@ -31,7 +31,7 @@ client = requests.Session()
 client.headers.update({
     'Content-Type': 'application/json',
     # Replace with actual access token
-    'Authorization': 'Bearer clt.2.4PlFsFB0NMunpmG8jonnO5dGf2Y3uPUwarRC3C4CdU3_kpTUUezLIPQyk6PNY2TW7vuwX3J1TmeKK8YhWf1LBA*2'
+    'Authorization': 'Bearer '
 })
 
 # Base URL for the API
