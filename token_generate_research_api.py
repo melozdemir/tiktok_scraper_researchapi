@@ -5,7 +5,7 @@ import requests
 
 url = "https://open.tiktokapis.com/v2/oauth/token/"
 
-payload = 'CLIENT_KEY=awy9wlyhdqz0alvd&CLIENT_SECRET=xvCyJ9LbMk4fItpRsf2B2ir7eDwoLqrB&grant_type=client_credentials'
+payload = 'CLIENT_KEY='
 headers = {
     'Content-Type': 'application/x-www-form-urlencoded'
 }
